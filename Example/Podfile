@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YECCCategoryKit_Example' do
+  pod 'YECCCategoryKit', :path => '../'
+
+  target 'YECCCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
