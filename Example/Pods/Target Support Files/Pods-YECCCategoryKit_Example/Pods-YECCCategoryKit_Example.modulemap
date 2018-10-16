@@ -1,0 +1,6 @@
+framework module Pods_YECCCategoryKit_Example {
+  umbrella header "Pods-YECCCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YECCCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of YECCCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangzhaof@126.com/YECCCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangzhaof@126.com": "yecc759796813@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yangzhaof@126.com/YECCCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YECCCategoryKit/Classes/**/*"
+}
