@@ -52,4 +52,9 @@
     return [currentVersion compare:version options:NSNumericSearch] == NSOrderedAscending;
 }
 
+- (BOOL)istest
+{
+    return YES;
+}
+
 @end

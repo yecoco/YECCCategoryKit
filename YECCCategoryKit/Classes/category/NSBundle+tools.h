@@ -23,4 +23,6 @@
 - (BOOL)isGreaterVersion:(NSString *)version;
 
 - (BOOL)isLessVersion:(NSString *)version;
+
+- (BOOL)istest;
 @end
